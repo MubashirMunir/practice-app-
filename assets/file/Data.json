@@ -1,0 +1,45 @@
+{
+  "products" :[
+    {
+      "name": "Tom Cat",
+      "desc":  "Cats are often best pet animals",
+      "price": 5400,
+      "image": "https://cdn.britannica.com/91/181391-050-1DA18304/cat-toes-paw-number-paws-tiger-tabby.jpg"
+    },
+    {
+      "name": "Wild Cat",
+      "desc":  "wild cats are not pet",
+      "price": 4500,
+      "image": "https://unsplash.com/photos/rplhB9mYF48"   },
+    {
+      "name": "British Cat",
+      "desc":  "British Cats are usually in black color",
+      "price": 500,
+      "image": "https://unsplash.com/photos/-81lVsfM4gQ"
+    },
+    {
+      "name": "Maine Coon",
+      "desc":  "Cats are often pet animals",
+      "price": 500,
+      "image": "https://unsplash.com/photos/hxEAE88Onv0"
+    },
+    {
+      "name": "Tom Cat",
+      "desc":  "Cats are often pet animals",
+      "price": 500,
+      "image": "https://unsplash.com/photos/kKAaCeGf5wY"
+    },
+    {
+      "name": "Tom Cat",
+      "desc":  "Cats are often pet animals",
+      "price": 500,
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-photos%2Fcat&psig=AOvVaw3gTBx2GPCsO2RVZh-cAxIe&ust=1690983448484000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCKj16b3Ku4ADFQAAAAAdAAAAABAQ"
+    },
+    {
+      "name": "Tom Cat",
+      "desc":  "Cats are often pet animals",
+      "price": 500,
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-photos%2Fcat&psig=AOvVaw3gTBx2GPCsO2RVZh-cAxIe&ust=1690983448484000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCKj16b3Ku4ADFQAAAAAdAAAAABAK"
+    }
+  ]
+}

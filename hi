@@ -1,0 +1,19 @@
+<! Doctype html>
+<html>
+    <head>
+        
+            <title>
+            try it yourself
+            </title>
+            <script type="text/javascript">
+                function myfunc(){
+                    document.getElementById("demo").innerHTML ="hello everyone";
+                }
+            </script>
+                </head>
+
+            <body>
+                <p id="demo"> hello world</p>
+                <button type="button" onclick="myfunc" > change value </button>
+            </body>
+</html>

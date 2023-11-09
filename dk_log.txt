@@ -1,0 +1,101 @@
+
+Begin:
+Language code:1033
+System: 64
+Retry: 0
+Begin:
+Language code:1033
+System: 64
+Retry: 0
+Get Url: https://imobie-resource.com/product/droidkit.7z
+Download url: https://imobie-resource.com/product/droidkit.7z
+Begin:
+Language code:1033
+System: 64
+Retry: 1
+Use default url.
+Download url: https://dlde.imobie.com/droidkit.7z
+Begin:
+Language code:1033
+System: 64
+Retry: 1
+Use default url.
+Download url: https://dlde.imobie.com/droidkit.7z
+Begin:
+Language code:1033
+System: 64
+Retry: 1
+Use default url.
+Download url: https://dlde.imobie.com/droidkit.7z
+Begin:
+Language code:1033
+System: 64
+Retry: 1
+Get Url: https://imobie-resource.com/product/droidkit.7z
+Download url: https://dl.imobie.com/droidkit.7z
+Begin:
+Language code:1033
+System: 64
+Retry: 1
+Get Url: https://imobie-resource.com/product/droidkit.7z
+Download url: https://dl.imobie.com/droidkit.7z
+Begin:
+Language code:1033
+System: 64
+Retry: 1
+Use default url.
+Download url: https://dlde.imobie.com/droidkit.7z
+Begin:
+Language code:1033
+System: 64
+Retry: 1
+Use default url.
+Download url: https://dlde.imobie.com/droidkit.7z
+Begin:
+Language code:1033
+System: 64
+Retry: 1
+Use default url.
+Download url: https://dlde.imobie.com/droidkit.7z
+Begin:
+Language code:1033
+System: 64
+Retry: 1
+Use default url.
+Download url: https://dlde.imobie.com/droidkit.7z
+Begin:
+Language code:1033
+System: 64
+Retry: 1
+Use default url.
+Download url: https://dlde.imobie.com/droidkit.7z
+Begin:
+Language code:1033
+System: 64
+Retry: 1
+Use default url.
+Download url: https://dlde.imobie.com/droidkit.7z
+Begin:
+Language code:1033
+System: 64
+Retry: 1
+Use default url.
+Download url: https://dlde.imobie.com/droidkit.7z
+Begin:
+Language code:1033
+System: 64
+Retry: 1
+Use default url.
+Download url: https://dlde.imobie.com/droidkit.7z
+Begin:
+Language code:1033
+System: 64
+Retry: 1
+Get Url: https://imobie-resource.com/product/droidkit.7z
+Download url: https://dl.imobie.com/droidkit.7z
+Begin:
+Language code:1033
+System: 64
+Retry: 1
+Get Url: https://imobie-resource.com/product/droidkit.7z
+Download url: https://dl.imobie.com/droidkit.7z
