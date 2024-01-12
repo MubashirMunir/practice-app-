@@ -5,7 +5,7 @@ class contact extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
+    return const Scaffold(
       body: Column(
           children: [IconButton(onPressed: null, icon: Icon(Icons.facebook))]),
     );
